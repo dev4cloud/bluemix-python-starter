@@ -1,4 +1,3 @@
----
 applications:
   - path: .
     name: flask-boilerplate
